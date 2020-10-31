@@ -1,0 +1,12 @@
+{
+  "name": "lemonilo",
+  "displayName": "lemonilo",
+  "expo": {
+    "name": "lemonilo",
+    "slug": "lemonilo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
